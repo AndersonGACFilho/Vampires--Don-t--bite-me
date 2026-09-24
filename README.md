@@ -1,4 +1,13 @@
-🎭 Vampires (Don't) Bite Me
+# Vampires (Don't) Bite Me 🎭
+
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![Unity 6](https://img.shields.io/badge/Unity-6000.3.5f1-000000.svg?logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Global Game Jam 2026](https://img.shields.io/badge/Global%20Game%20Jam-2026-E5322D.svg)](https://globalgamejam.org/)
+[![Theme: MASK](https://img.shields.io/badge/theme-MASK-8A2BE2.svg)](https://globalgamejam.org/)
+[![Genre: Stealth](https://img.shields.io/badge/genre-Stealth%20Survival-2A6DB2.svg)](#)
+[![Perspective: 3D](https://img.shields.io/badge/perspective-Doom--like%203D-FF7F50.svg)](#)
+
 
 Project originally created during Global Game Jam 2026, under the theme MASK.
 
